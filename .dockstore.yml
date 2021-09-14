@@ -1,0 +1,4 @@
+version: 1.2
+workflows:
+   - subclass: wdl
+     primaryDescriptorPath: /hello_world.wdl
